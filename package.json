@@ -1,0 +1,26 @@
+{
+  "name": "battleship-cli-app-s",
+  "version": "1.0.0",
+  "description": "## Introduction",
+  "type": "module",
+  "main": "battleship.js",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node battleship.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kxppx/battleship-cli-app-s.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kxppx/battleship-cli-app-s/issues"
+  },
+  "homepage": "https://github.com/Kxppx/battleship-cli-app-s#readme"
+}
