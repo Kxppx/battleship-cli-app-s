@@ -95,6 +95,7 @@ function guessedAllWrong(board) {
 function replay() {
   const replay = readlineSync.keyInYN("Would you like to play again?");
   if (replay === true) {
+    clearScreen();
     greetUser();
   } else {
     console.log("goodbye..😭💔");
